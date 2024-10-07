@@ -1,1 +1,3 @@
 actions-runner/actions-runner-linux-x64-2.319.1.tar.gz
+mern-app-client/node_modules
+mern-app-server/node_modules
