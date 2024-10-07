@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "latitude-3440",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelinesghubeus9.actions.githubusercontent.com/00Ih8Gbeb8uyJ5XtICjTFDEpVDNfRJtxDs2nhlwX70KUA0x32j/",
-  "gitHubUrl": "https://github.com/Madhav-Gohel/mern-app",
-  "workFolder": "_work"
-}
